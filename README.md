@@ -12,7 +12,7 @@
 
 
 <p align="center">
-<img src="media/image1.gif" width="150"><img src="media/image2.gif" width="150"><img src="media/image1.gif" width="150"><img src="media/image2.gif" width="150"><img src="media/image1.gif" width="150"><img src="media/image2.gif" width="150">
+<img src="media/image1.gif" width="150"><img src="media/image2.gif" width="150"><img src="media/image1.gif" width="150"><img src="media/image2.gif" width="150"><img src="media/image1.gif" width="150">
 </p>
 
 # Робот от команды Нанокоты
