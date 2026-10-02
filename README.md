@@ -26,10 +26,10 @@
 Электрическая схема:
 
 <p align="center">
-<img src="media/image3.png" width="400"><img src="media/image4.gif" width="400">
+<img src="media/image3.png" width="300"><img src="media/image4.gif" width="300">
 </p>
 <p align="center">
-<img src="media/image5.png" width="400"><img src="media/image6.gif" width="400">
+<img src="media/image5.png" width="300"><img src="media/image6.gif" width="300">
 </p>
 
 ## 2. Дизайн
@@ -38,7 +38,7 @@
 зарисовки представлены на картинках:
 
 <p align="center">
-<img src="media/image7.png" width="300"><img src="media/image8.png" width="300"><img src="media/image9.png" width="300">
+<img src="media/image7.png" width="200"><img src="media/image8.png" width="200"><img src="media/image9.png" width="200">
 </p>
 
 Основная задача робота состояла в создании «ножек». Далее представлены
