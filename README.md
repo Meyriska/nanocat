@@ -2,13 +2,7 @@
 Всем кискам "Пис!" - я из НИТУ МИСИС
 бла бла
 
-![](media/image1.gif){width="1.25in"
-height="1.25in"}![](media/image2.gif){width="1.25in"
-height="1.25in"}![](media/image1.gif){width="1.25in"
-height="1.25in"}![](media/image2.gif){width="1.25in"
-height="1.25in"}![](media/image1.gif){width="1.25in"
-height="1.25in"}![](media/image2.gif){width="1.25in"
-height="1.25in"}![](media/image1.gif){width="1.25in" height="1.25in"}
+![](media/image1.gif)![](media/image2.gif)![](media/image1.gif)![](media/image2.gif)![](media/image1.gif)![](media/image2.gif)![](media/image1.gif)
 
 # Робот от команды Нанокоты
 
@@ -20,65 +14,48 @@ height="1.25in"}![](media/image1.gif){width="1.25in" height="1.25in"}
 
 Электрическая схема:
 
-![](media/image3.png){width="2.819359142607174in"
-height="3.9124781277340333in"}![](media/image4.gif){width="3.134258530183727in"
-height="2.963391294838145in"}
+![](media/image3.png)![](media/image4.gif)
 
-![](media/image5.png){width="3.1496062992125986in"
-height="3.1496062992125986in"}![](media/image6.gif){width="3.1496062992125986in"
-height="3.1496062992125986in"}
+![](media/image5.png)![](media/image6.gif)
 
 ## Дизайн
 
 Было решено спрятать электрическую конструкцию в коробку. Примерные
 зарисовки представлены на картинках:
 
-![](media/image7.png){width="1.968503937007874in"
-height="1.968503937007874in"}![](media/image8.png){width="1.968503937007874in"
-height="1.968503937007874in"}![](media/image9.png){width="1.968503937007874in"
-height="1.968503937007874in"}
+![](media/image7.png)![](media/image8.png)![](media/image9.png)
 
 Основная задача робота состояла в создании «ножек». Далее представлены
 источники, которыми мы вдохновились.
 
-![](media/image10.png){width="3.9234492563429573in"
-height="2.101593394575678in"}
+![](media/image10.png)
 
 Источник: <https://www.youtube.com/watch?v=gTIaTd0_7bk>
 
-![](media/image11.png){width="3.2765441819772527in"
-height="3.2765441819772527in"}
+![](media/image11.png)
 
 Источник: <https://www.youtube.com/watch?v=IpwZKaRav4c>
 
 Далее было принято решение симулировать механизм для более лучшей
 наглядности.
 
-![](media/image12.gif){width="6.403472222222222in"
-height="2.3622047244094486in"}
+![](media/image12.gif)
 
 Опробовав все 3 механизма, самым эффективным оказался механизм,
 расположенный в центре.
 
-![](media/image13.gif){width="2.570305118110236in"
-height="2.3622047244094486in"}
+![](media/image13.gif)
 
 Далее создавались детали.
 
 Диск (ротор) со ступицей и эксцентриковым отверстием представлен на
 следующих картинках. Все измерения выполнены в миллиметрах.
 
-![](media/image14.png){width="3.3631496062992126in"
-height="3.1496062992125986in"}![](media/image15.png){width="3.0834930008748906in"
-height="2.6009448818897636in"}![](media/image16.png){width="3.8409798775153106in"
-height="3.1496062992125986in"}![](media/image17.png){width="2.6028127734033246in"
-height="3.1496062992125986in"}![](media/image18.png){width="2.630591644794401in"
-height="3.1496062992125986in"}
+![](media/image14.png)![](media/image15.png)![](media/image16.png)![](media/image17.png)![](media/image18.png)
 
 В качестве ножек использовались деревянные пластины.
 
-![](media/image19.png){width="2.911169072615923in"
-height="3.1496062992125986in"}
+![](media/image19.png)
 
 Затем из картона было сделано основание (коробка), на которую позже были
 приклеены мотор и батарейный отсек.
@@ -88,24 +65,20 @@ height="3.1496062992125986in"}
 Из основных минусов это отсутствие синхронности, из-за чего робот
 совершает движение по окружности больше чем, прямое.
 
-![](media/image20.gif){width="3.1496062992125986in"
-height="3.1496062992125986in"}
+![](media/image20.gif)
 
 ## Декор
 
 Для скрывания внутренней конструкции робота были разработаны
 дополнительные детали.
 
-![](media/image21.png){width="1.6802712160979878in"
-height="3.1496062992125986in"}![](media/image22.png){width="1.6813845144356956in"
-height="3.1496062992125986in"}
+![](media/image21.png)
 
 ## Примечания для оптимизирования робота
 
 Необходимо изменить направление винта и заменить на длину побольше.
 
-![](media/image23.png){width="3.993491907261592in"
-height="4.669612860892388in"}
+![](media/image23.png)
 
 ## Примечания для оптимизирования робота
 
