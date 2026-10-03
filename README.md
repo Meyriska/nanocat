@@ -109,7 +109,7 @@
 Итог.
 
 <p align="center">
-<img src="media/image23.png" width="300"><img src="media/image24.png" width="300"><img src="media/image25.png" width="300">
+<img src="media/image23.png" width="300"><img src="media/image24.png" width="300"><img src="media/image25.png" width="300"><img src="media/image26.gif" width="300"><img src="media/image27.gif" width="300"><img src="media/image28.png" width="300"><img src="media/image29.png" width="300"><img src="media/image30.png" width="300"><img src="media/image31.gif" width="300"><img src="media/image32.gif" width="300">
 </p>
 
 ## 5. Примечания для оптимизации робота
