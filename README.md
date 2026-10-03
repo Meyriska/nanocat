@@ -121,7 +121,7 @@
 что-то
 
 <p align="center">
-<img src="media/image28.png" width="300"><img src="media/image29.png" width="300"><img src="media/image30.png" width="300">
+<img src="media/image28.png" width="200"><img src="media/image29.png" width="200"><img src="media/image30.png" width="200">
 </p>
 
 что-то
