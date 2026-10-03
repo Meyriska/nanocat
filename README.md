@@ -1,4 +1,9 @@
 # Нанокоты
+
+<p align="center">
+<img src="media/image1.gif" width="150"><img src="media/image2.gif" width="150"><img src="media/image1.gif" width="150"><img src="media/image2.gif" width="150"><img src="media/image1.gif" width="150">
+</p>
+
 Всем кискам "Пис!" - я из НИТУ МИСИС
 бла бла
 
@@ -9,11 +14,6 @@
     * [3. Декор](#3-декор)
     * [4. Тестирование](#4-тестирование)
     * [5. Итог](#5-итог)
-
-
-<p align="center">
-<img src="media/image1.gif" width="150"><img src="media/image2.gif" width="150"><img src="media/image1.gif" width="150"><img src="media/image2.gif" width="150"><img src="media/image1.gif" width="150">
-</p>
 
 
 # Робот от команды Нанокоты
