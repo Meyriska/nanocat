@@ -10,7 +10,7 @@
 <p align="center">
 <table border="0">
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="100%">
 
 ## Содержание
 * [Робот от команды нанокоты](#робот-от-команды-нанокоты)
