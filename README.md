@@ -10,7 +10,6 @@
 <p align="center">
 <table border="0">
   <tr>
-    <!-- Левый столбец: Содержание -->
     <td valign="top" width="50%">
 
 ## Содержание
@@ -22,7 +21,6 @@
     * [5. Итог](#5-итог)
 
     </td>
-    <!-- Правый столбец: Картинка (анимация) -->
     <td valign="middle" align="center" width="50%">
       <img src="media/image0.gif" width="300">
     </td>
